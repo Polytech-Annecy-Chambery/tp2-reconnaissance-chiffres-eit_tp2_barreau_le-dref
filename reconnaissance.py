@@ -26,3 +26,4 @@ def reconnaissance_chiffre(image, liste_modeles, S):
     return rang 
         
     
+
